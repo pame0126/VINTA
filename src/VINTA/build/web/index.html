@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+
+<html lang="es" >   <!--lenguaje en español-->
+<head>
+    <meta charset="utf-8"> <!--caracteres latino-->
+    <meta name="description" content= "venta de ropa vintage"><!--descripción antes de ingresar a la página-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VINTA</title>
+    <link rel="stylesheet"  href="css/estilo.css"> <!--rel:relacion href: como se llama el archivo que estamos manejando--> 
+</head>
+<body>
+    <div id="principal">
+        <header>
+            <div id= "logo">
+
+                <img src= "Imagenes_fondo/logo.png" width="65" >   
+            </div>
+
+        
+                <nav class="menu">
+                   <ul><!--lista no ordenada-->
+                        <li><a href="#usuario" target= "_self">opcion usuario</a></li>
+                        <li><a href="#primero" target= "_self">nosotros</a></li>
+                        <li><a href="#informacion" target= "_self">proyecto</a></li>
+                        <li><a href="login.html" target= "_self">Salir</a></li>
+                       
+                   </ul> 
+
+                </nav>
+            
+        </header>
+
+        <section id="inicio">
+            <img src= "Imagenes_fondo/inicio.jpg" width="1340">
+            
+            
+            <div class="botones_principales" role="group" aria-label="Basic example">
+            <button type="button" onclick="location.href='InsertarPrenda.html'" class="btn botones_principales">Insertar</button>
+            <button type="button" onclick="location.href='actualizarPrenda.html'" class="btn botones_principales">Actualizar</button>
+            <button type="button" onclick="location.href='eliminarRopa.html'" class="btn botones_principales">Borrar</button>
+            <button type="button" onclick="location.href='getPrendas.jsp'" class="btn botones_principales">Productos</button>
+            
+            <!--barra de busqueda-->     
+                <form action="buscar.html">
+                  <input type="text" placeholder="Buscar" name="busqueda">
+                  <button type="submit">Buscar</button>
+                </form>
+
+    
+             </div>
+            
+            <br>
+                <center> 
+                <img  src= "imagenes_principal/imagen3.jpg" width="379" >
+                </center>
+            
+            
+       </section> 
+    </div>
+     
+    <section id ="introduccion">
+        <div id="parrafo">
+        <a name="informacion"><h1>¿En qué consiste la pagina?</h1></a>
+      
+      <h3>
+          VINTA es una aplicación destinada para compra y venta de ropa de segunda mano, la cual pretende ofrecer una solución 
+a la contaminación que produce año con año la industria de la moda a nivel mundial, actuando como un medio en donde 
+las personas puedan publicar sus prendas y puedan ofrecerlas a todos los miembros de la comunidad de VINTA.
+Con el desarrollo de este proyecto buscamos crear conciencia acerca de la problemática que generan las toneladas de 
+ropa que es descartada día con día, incentivando a las personas a adquirir prendas de segunda mano. El registro y uso
+de esta aplicación es gratuito.
+      </h3>
+       <center> 
+   <img  src= "imagenes_principal/imagen1.jpg" width="340" >
+       </center>
+        
+        
+            <a name="primero"><h1>¿ Quienes somos?</h1></a>
+      
+      <h3>
+         
+Las impulsoras de este proyecto son dos estudiantes de ingeniería en computación del  Tecnológico de Costa Rica.
+
+      </h3>
+       <center> 
+   <img  src= "imagenes_principal/imagen2.jpg" width="340" >
+       </center>
+            
+            </div>
+    </section>
+    
+      <section id="usuario">
+            <div class="botones_principales" role="group" aria-label="Basic example">
+            <button type="button" onclick="location.href='CambioContrasena.html'" class="btn botones_principales">Actualizar password</button>
+            <button type="button" onclick="location.href='Eliminar.html'" class="btn botones_principales">Eliminar Cuenta</button>
+             </div>
+            
+        </section>
+</body>
+ 
+</html>
+

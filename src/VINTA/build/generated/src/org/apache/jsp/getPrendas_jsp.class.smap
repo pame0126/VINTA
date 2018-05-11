@@ -1,0 +1,18 @@
+SMAP
+getPrendas_jsp.java
+JSP
+*S JSP
+*F
++ 0 getPrendas.jsp
+getPrendas.jsp
+*L
+5,30:47
+35,2:78
+36,3:80
+38,2:83
+39:85
+40:86,6
+41:92
+42,2:94
+43,8:96
+*E

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/web/css/estilo_mostar_prendas.css</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/src/java/Controlador/MostrarTodasPrendas.java</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/src/java/Modelo/tienda/db/DBPrenda.java</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/src/java/Controlador/InicioUsuario.java</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/src/java/Modelo/tienda/db/conection/DBOracle.java</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/web/eliminarRopa.html</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/src/java/Controlador/InsertarUsuario.java</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/src/java/Modelo/tienda/Tienda.java</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/web/getPrendas.jsp</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/src/java/Modelo/tienda/Prenda.java</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/web/buscar.html</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/web/login.html</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/src/java/Controlador/AñadirPrenda.java</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/web/Eliminar.html</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/src/java/Controlador/eliminarUsuario.java</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/web/actualizarPrenda.html</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/src/java/Controlador/actualizarPrenda.java</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/src/java/Controlador/DeletePrenda.java</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/src/java/Controlador/cambiarContrasena.java</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/web/index.html</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/src/java/Modelo/tienda/db/conection/MongoDB.java</file>
+            <file>file:/C:/Users/Wifuss/Documents/2018%20-%20I%20Semestre/Bases%20II/Proyecto%201/VINTA/web/InsertarPrenda.html</file>
+        </group>
+    </open-files>
+</project-private>
